@@ -1,7 +1,7 @@
 import "./style.scss";
-// import { setupCounter } from "./counter.ts";
+//import { setupCounter } from "./counter.ts";
 
-// setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
+//setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
 const bases: Record<string, string> = {
   blackTea: "#8B4513",
   greenTea: "#C8E6C9",
